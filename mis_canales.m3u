@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Nuevo Canal" group-title="Locales",Colorvision
-https://live.eu-north-1a.cf.dmcdn.net/sec2(MO0bo-ly4j0CWs_QJprlKAFXOlaRfzzGSDV2APhJc8vpsOmTdU8Q4idRz0YoEMqFioZuzJktcR2-yQLGe4epw1ZZBAxoNoI5ENFkyAiMdmCMBqD0I8ieSWh04F7pNlyO)/dm/3/x7gy059/d/live-480.m3u8
+https://colorvision.com.do/en-vivo/#goog_rewarded.m3u
+
 
 
 #EXTINF:-1 tvg-name="teleantillas"tvg-logo="https://raw.githubusercontent.com/yako2323/MISCANALES/main/logos/teleantillas.png" group-title="Locales",teleantillas
